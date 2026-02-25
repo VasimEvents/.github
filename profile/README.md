@@ -1,14 +1,14 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VasimEvents/Rentman-Canva-Offerte/main/assets/VasimEvents-logo-wit-transparant.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VasimEvents/Rentman-Canva-Offerte/main/assets/VasimEvents-logo-donker-transparant%20copy.png">
-    <img src="https://raw.githubusercontent.com/VasimEvents/Rentman-Canva-Offerte/main/assets/VasimEvents-logo-donker-transparant%20copy.png" alt="VasimEvents" width="320">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VasimEvents/.github/main/assets/VasimEvents-logo-wit-transparant.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VasimEvents/.github/main/assets/VasimEvents-logo-donker-transparant%20copy.png">
+    <img src="https://raw.githubusercontent.com/VasimEvents/.github/main/assets/VasimEvents-logo-donker-transparant%20copy.png" alt="VasimEvents" width="320">
   </picture>
 
   <h1>VasimEvents</h1>
 
   <p align="center">
-    <strong>🎶 Evenemententechniek uit Arnhem — Licht · Geluid · Video · Rigging</strong>
+    <strong>🎶 Evenemententechniek uit Nijmegen — Licht · Geluid · Video · Rigging</strong>
   </p>
 
   <p align="center">
@@ -21,7 +21,7 @@
 
   <p align="center">
     <a href="https://vasimevents.nl"><img src="https://img.shields.io/badge/Website-vasimevents.nl-FF6B35?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
-    <img src="https://img.shields.io/badge/Locatie-Arnhem%2C%20NL-blue?style=flat-square" alt="Locatie">
+    <img src="https://img.shields.io/badge/Locatie-Nijmegen%2C%20NL-blue?style=flat-square" alt="Locatie">
   </p>
 </div>
 
@@ -43,7 +43,7 @@
 
 ## 👋 Over ons
 
-**VasimEvents** levert professionele evenemententechniek vanuit Arnhem. Van intieme presentaties tot grote festivals — wij verzorgen licht, geluid, video en rigging op maat.
+**VasimEvents** levert professionele evenemententechniek vanuit Nijmegen. Van intieme presentaties tot grote festivals — wij verzorgen licht, geluid, video en rigging op maat.
 
 Wij automatiseren onze bedrijfsprocessen met slimme integraties tussen de tools die we dagelijks gebruiken.
 
@@ -65,4 +65,4 @@ Wij automatiseren onze bedrijfsprocessen met slimme integraties tussen de tools 
 
 ## 📫 Contact
 
-🌐 [vasimevents.nl](https://vasimevents.nl) · 📍 Arnhem, Nederland
+🌐 [vasimevents.nl](https://vasimevents.nl) · 📍 Nijmegen, Nederland
