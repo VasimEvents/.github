@@ -51,7 +51,7 @@ Wij automatiseren onze bedrijfsprocessen met slimme integraties tussen de tools 
 
 | Repository | Beschrijving | Status |
 |------------|-------------|--------|
-| [**Rentman-Canva-Offerte**](https://github.com/VasimEvents/Rentman-Canva-Offerte) | Automatische offerte-PDF's genereren vanuit Rentman via Canva — inclusief Power Automate workflow voor SharePoint & e-mail | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**Offert-Flowe**](https://github.com/VasimEvents/Offerte-Flow) | Automatische offerte-PDF's genereren vanuit Rentman via Canva — inclusief Power Automate workflow voor SharePoint & e-mail | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
 
 ## ⚙️ Tech Stack
 
