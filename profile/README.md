@@ -62,7 +62,7 @@ Deze GitHub-organisatie bundelt de source-control projecten rond die automatiser
 | [**offerte-flow**](https://github.com/VasimEvents/offerte-flow) | Rentman naar branded HTML/PDF offertes via Azure Functions, Power Automate, SharePoint, WeasyPrint en Canva. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
 | [**admin-flows**](https://github.com/VasimEvents/admin-flows) | Power Automate snapshots, SharePoint schema's en runbooks voor eventadmin, Teams, Planner, communicatie en herstel. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
 | [**evaluatie-flow**](https://github.com/VasimEvents/evaluatie-flow) | Evaluatieverzoeken, Microsoft Forms responses, SharePoint opslag en dashboardfeed voor post-event feedback. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| [**eventpage-flow**](https://github.com/VasimEvents/eventpage-flow) | Documentatie en SharePoint snapshots voor supplier-facing eventpagina's en de embedded admin-flow lifecycle. | ![Documented](https://img.shields.io/badge/Status-Documented-success?style=flat-square) |
+| [**eventpage-flow**](https://github.com/VasimEvents/eventpage-flow) | Documentatie en SharePoint snapshots voor supplier-facing eventpagina's en de embedded admin-flow lifecycle. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
 
 ### Data & rapportage
 
