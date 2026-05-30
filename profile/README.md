@@ -59,23 +59,23 @@ Deze GitHub-organisatie bundelt de source-control projecten rond die automatiser
 
 | Repository | Beschrijving | Status |
 | --- | --- | --- |
-| [**offerte-flow**](https://github.com/VasimEvents/offerte-flow) | Rentman naar branded HTML/PDF offertes via Azure Functions, Power Automate, SharePoint, WeasyPrint en Canva. | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**admin-flows**](https://github.com/VasimEvents/admin-flows) | Power Automate snapshots, SharePoint schema's en runbooks voor eventadmin, Teams, Planner, communicatie en herstel. | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**evaluatie-flow**](https://github.com/VasimEvents/evaluatie-flow) | Evaluatieverzoeken, Microsoft Forms responses, SharePoint opslag en dashboardfeed voor post-event feedback. | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**offerte-flow**](https://github.com/VasimEvents/offerte-flow) | Rentman naar branded HTML/PDF offertes via Azure Functions, Power Automate, SharePoint, WeasyPrint en Canva. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [**admin-flows**](https://github.com/VasimEvents/admin-flows) | Power Automate snapshots, SharePoint schema's en runbooks voor eventadmin, Teams, Planner, communicatie en herstel. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [**evaluatie-flow**](https://github.com/VasimEvents/evaluatie-flow) | Evaluatieverzoeken, Microsoft Forms responses, SharePoint opslag en dashboardfeed voor post-event feedback. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
 | [**eventpage-flow**](https://github.com/VasimEvents/eventpage-flow) | Documentatie en SharePoint snapshots voor supplier-facing eventpagina's en de embedded admin-flow lifecycle. | ![Documented](https://img.shields.io/badge/Status-Documented-success?style=flat-square) |
 
 ### Data & rapportage
 
 | Repository | Beschrijving | Status |
 | --- | --- | --- |
-| [**dashboard-pbi**](https://github.com/VasimEvents/dashboard-pbi) | Power BI report source, Python tooling, Power Query M, live inventaris en operations docs voor het VasimEvents dashboard. | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**dashboard-pbi**](https://github.com/VasimEvents/dashboard-pbi) | Power BI report source, Python tooling, Power Query M, live inventaris en operations docs voor het VasimEvents dashboard. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
 
 ### Platform & kennis
 
 | Repository | Beschrijving | Status |
 | --- | --- | --- |
-| [**platform-alm**](https://github.com/VasimEvents/platform-alm) | Power Platform ALM source voor de unmanaged `VasimEvents` Dataverse solution en canonieke flowset. | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
-| [**wiki**](https://github.com/VasimEvents/wiki) | LLM-maintained kennisbank, live inventaris, asset register en implementatietrackers voor de automatiseringsprojecten. | ![Active](https://img.shields.io/badge/Status-Active-success?style=flat-square) |
+| [**platform-alm**](https://github.com/VasimEvents/platform-alm) | Power Platform ALM source voor de unmanaged `VasimEvents` Dataverse solution en canonieke flowset. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [**wiki**](https://github.com/VasimEvents/wiki) | LLM-maintained kennisbank, live inventaris, asset register en implementatietrackers voor de automatiseringsprojecten. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
 
 ### Legacy / archief
 
