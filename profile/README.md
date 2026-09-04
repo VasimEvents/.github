@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Azure%20Functions-v4-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Functions">
     <img src="https://img.shields.io/badge/SharePoint-Online-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint">
     <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+    <img src="https://img.shields.io/badge/Next.js-Portal-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Python-Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </p>
@@ -55,6 +56,13 @@ Deze GitHub-organisatie bundelt de source-control projecten rond die automatiser
 
 ## 🧭 Projecten
 
+### Portal
+
+| Repository | Beschrijving | Status |
+| --- | --- | --- |
+| [**de-studio**](https://github.com/VasimEvents/de-studio) | De Studio, het VasimEvents portal (Next.js): aanvragen, offerte-editor en Rentman-koppeling. Push naar `main` deployt naar productie. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [**portal-2.0**](https://github.com/VasimEvents/portal-2.0) | Visie, plan, beslissingen, status en walkthrough-documenten voor De Studio. | ![status: active](https://img.shields.io/badge/status-active-success?style=flat-square) |
+
 ### Automatisering
 
 | Repository | Beschrijving | Status |
@@ -88,6 +96,7 @@ Deze GitHub-organisatie bundelt de source-control projecten rond die automatiser
 | Categorie | Technologie |
 | --- | --- |
 | **Cloud & runtime** | Azure Functions v4 · Azure Container Apps · Azure Storage Queue · Azure Table Storage · Node.js 20 · Python |
+| **Portal** | Next.js · React · TypeScript · Tailwind CSS · Docker |
 | **Power Platform** | Power Automate · Dataverse solutions · Power Platform CLI |
 | **Microsoft 365** | SharePoint · Microsoft Teams · Outlook · Planner · Microsoft Forms · Microsoft Graph |
 | **Data & BI** | Power BI · Microsoft Fabric · Power Query M · PBIR/report JSON |
